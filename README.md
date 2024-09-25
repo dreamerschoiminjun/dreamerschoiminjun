@@ -24,6 +24,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎮 진행 프로젝트 </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         • 퍼즐 게임(팀프로젝트)<br>
+        <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
