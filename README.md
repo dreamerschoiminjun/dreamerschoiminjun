@@ -42,7 +42,9 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 체력 관리 시스템<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 난이도 조절 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 적 디자인<br>
+        <br>
         • TPS 로그라이크 장르의 게임(팀프로젝트)<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
     </div>
 </div>
 
