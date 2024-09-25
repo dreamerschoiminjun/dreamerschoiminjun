@@ -4,25 +4,29 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 유니티 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        안녕하세요! 제 이름은 최민준입니다.<br>
-        2021년 9월부터 유니티 개발을 시작했으며 현재까지 퍼즐 게임, FPS 미니게임, TPS 로그라이크 장르의 게임 (3개 프로젝트)을 진행해왔습니다.<br>
-<br>
-        C# 프로그래밍과 Unity의 다양한 기능을 활용하여 창의적인 게임을 만들기 위해 지속적으로 노력하고 있습니다.<br>
-        협업과 소통을 통해 더욱 뛰어난 결과물을 만들어내는 것을 중요하게 생각하며, 앞으로도 더 많은 프로젝트에 참여하여 실력을 쌓아가고 싶습니다.
+        안녕하세요!<br> 
+        유니티 개발자 최민준입니다.<br>
     </div>
 </div>
 
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 진행 프로젝트 </h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 개발 경력 </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        • 퍼즐 게임()<br>
-        • FPS 미니게임()<br>
-        • TPS 로그라이크 장르의 게임()
+        • 유니티 개발 시작 2021년 9월 (현재 3년차)
     </div>
 </div>
 
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎮 게임 대회 참가 </h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎮 진행 프로젝트 </h2> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+        • 퍼즐 게임<br>
+        • FPS 미니게임<br>
+        • TPS 로그라이크 장르의 게임
+    </div>
+</div>
+
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎉 게임 대회 참가 </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         <!-- 내용 비움 -->
     </div>
@@ -31,7 +35,7 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
     <div align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=dreamerschoiminjun&custom_title=dreamerschoiminjun's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />  
+        <img src="https://github-readme-stats.vercel.app/api?username=dreamerschoiminjun&show_icons=true&theme=radical" alt="dreamerschoiminjun's GitHub Stats" />  
     </div> 
 </div>
 
