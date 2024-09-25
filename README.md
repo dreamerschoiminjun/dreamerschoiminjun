@@ -28,7 +28,7 @@
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2024.03.01 ~ 2024.10.31<br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp; 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지, 엔딩 디자인<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
@@ -38,7 +38,7 @@
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2024.09.01 ~ 2024.09.30<br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp; 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 공격 패턴 구현<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 점수 시스템<br>
@@ -51,7 +51,7 @@
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2022.09.20 ~ 2025.03.01<br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp; 주요 코딩 요소:<br>
     </div>
 </div>
 
