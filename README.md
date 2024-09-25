@@ -26,9 +26,11 @@
         • 퍼즐 게임(팀프로젝트)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/puzzle-game" style="color: #58a6ff;">GitHub Repository</a><br>
         <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
+        <br>
         • FPS 미니게임(개인프로젝트)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/fps-minigame" style="color: #58a6ff;">GitHub Repository</a><br>
         <br>
