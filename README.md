@@ -26,6 +26,8 @@
         • 퍼즐 게임(팀프로젝트)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/puzzle-game" style="color: #58a6ff;">GitHub Repository</a><br>
         <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2024.03.01 ~ 2024.10.31<br>
+        <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
@@ -33,6 +35,8 @@
         <br>
         • FPS 미니게임(개인프로젝트)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/fps-minigame" style="color: #58a6ff;">GitHub Repository</a><br>
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2024.09.01 ~ 2024.09.30<br>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
@@ -43,7 +47,10 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 난이도 조절 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 적 디자인<br>
         <br>
-        • TPS 로그라이크 장르의 게임(팀프로젝트)<br>
+        • TPS 로그라이크 장르의 게임 (팀프로젝트)<br>
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2022.09.20 ~ 2025.03.01<br>
+        <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
     </div>
 </div>
