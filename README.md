@@ -23,12 +23,23 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎮 진행 프로젝트 </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        • 퍼즐 게임<br>
-        • FPS 미니게임<br>
-        • TPS 로그라이크 장르의 게임
+        • 퍼즐 게임(팀프로젝트)<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
+        • FPS 미니게임(개인프로젝트)<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 전체 디자인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 공격 패턴 구현<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 점수 시스템<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 아이템 드랍 메커니즘<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 체력 관리 시스템<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 난이도 조절 로직<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 적 디자인<br>
+        • TPS 로그라이크 장르의 게임(팀프로젝트)
     </div>
 </div>
-
 <br><br> <!-- 추가된 줄바꿈 -->
 
 <div align="center"> 
