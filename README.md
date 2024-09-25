@@ -30,7 +30,7 @@
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지, 엔딩 디자인<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
         <br>
         • FPS 미니게임 (개인프로젝트)<br>
