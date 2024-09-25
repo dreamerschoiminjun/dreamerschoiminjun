@@ -3,10 +3,9 @@
 </div>
 
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 유니티 개발자 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 관련 업무 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        안녕하세요!<br> 
-        유니티 개발자 최민준입니다.<br>
+        안녕하세요! 유니티 개발자 최민준입니다.<br>
     </div>
 </div>
 
