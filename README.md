@@ -32,7 +32,6 @@
         • FPS 미니게임(개인프로젝트)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/fps-minigame" style="color: #58a6ff;">GitHub Repository</a><br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 전체 디자인<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 공격 패턴 구현<br>
