@@ -24,28 +24,25 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎮 진행 프로젝트 </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         • 퍼즐 게임(팀프로젝트)<br>
-        <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 주 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/puzzle-game" style="color: #58a6ff;">GitHub Repository</a><br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 퍼즐 디자인<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임, 사운드<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 엔딩 스테이지 제작<br>
-        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
         • FPS 미니게임(개인프로젝트)<br>
-        <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 주 코딩 요소:<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 적 등장 및 추적 로직<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 적 공격 패턴 <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 적 처치시 점수 시스템 <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 적 처치시 아이템 드랍, 획득 <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 체력 시스템 <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 시간에 따른 난이도 조절 로직<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/fps-minigame" style="color: #58a6ff;">GitHub Repository</a><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 전체 디자인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 공격 패턴 구현<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 점수 시스템<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 아이템 드랍 메커니즘<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 체력 관리 시스템<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 난이도 조절 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 적 디자인<br>
-        <br>
-        • TPS 로그라이크 장르의 게임(팀프로젝트)
-        <br>
+        • TPS 로그라이크 장르의 게임(팀프로젝트)<br>
     </div>
 </div>
+
 <br><br> <!-- 추가된 줄바꿈 -->
 
 <div align="center"> 
