@@ -25,13 +25,15 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         • 퍼즐 게임(팀프로젝트)<br>
         <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 주 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 디자인<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임 사운드<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 1스테이지 퍼즐 디자인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임, 사운드<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 엔딩 스테이지 제작<br>
         <br>
         • FPS 미니게임(개인프로젝트)<br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 주요 코딩 요소:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 주 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 공격 패턴 구현<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 점수 시스템<br>
