@@ -26,7 +26,7 @@
         • 퍼즐 게임 (팀프로젝트 본인 외 개발자 2인)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/puzzle-game" style="color: #58a6ff;">GitHub Repository</a><br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2024.03.01 ~ 2024.10.31<br>
+        &nbsp;&nbsp;&nbsp;&nbsp; 진행기한: 2024.03.01 ~ 2024.10.31<br>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp; 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 캐릭터 움직임<br>
@@ -36,7 +36,7 @@
         • FPS 미니게임 (개인프로젝트)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dreamerschoiminjun/fps-minigame" style="color: #58a6ff;">GitHub Repository</a><br>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2024.09.01 ~ 2024.09.30<br>
+        &nbsp;&nbsp;&nbsp;&nbsp; 진행기한: 2024.09.01 ~ 2024.09.30<br>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp; 주요 코딩 요소:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UFO 등장 및 추적 로직<br>
