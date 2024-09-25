@@ -10,6 +10,7 @@
     </div>
 </div>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 개발 경력 </h2> 
@@ -18,6 +19,7 @@
     </div>
 </div>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎮 진행 프로젝트 </h2> 
@@ -28,6 +30,7 @@
     </div>
 </div>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎉 게임 대회 참가 </h2> 
@@ -36,6 +39,7 @@
     </div>
 </div>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
@@ -44,6 +48,7 @@
     </div> 
 </div>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <h3 align="center">활용 언어</h3>
 <p align="center"> 
@@ -52,6 +57,7 @@
     </a> 
 </p>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <h3 align="center">활용 도구</h3>
 <p align="center"> 
@@ -60,6 +66,7 @@
     </a> 
 </p>
 
+<br><br> <!-- 추가된 줄바꿈 -->
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=dreamerschoiminjun&label=Profile%20views&color=0e75b6&style=flat" alt="dreamerschoiminjun" /> 
