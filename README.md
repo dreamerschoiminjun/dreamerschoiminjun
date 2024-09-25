@@ -47,7 +47,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 난이도 조절 로직<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 적 디자인<br>
         <br>
-        • TPS 로그라이크 장르의 게임 (팀프로젝트 본인 외 추가인원 디자이너 1인)<br>
+        • TPS 로그라이크 장르의 게임 (팀프로젝트 본인 외 디자이너 1인)<br>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 진행기한: 2022.09.20 ~ 2025.03.01<br>
         <br>
